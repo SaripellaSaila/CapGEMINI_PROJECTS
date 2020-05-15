@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe.config
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.BBL.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.DAL.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.Entities.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.Exceptions.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.BBL.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.DAL.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.Entities.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.Exceptions.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.exe
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.pdb

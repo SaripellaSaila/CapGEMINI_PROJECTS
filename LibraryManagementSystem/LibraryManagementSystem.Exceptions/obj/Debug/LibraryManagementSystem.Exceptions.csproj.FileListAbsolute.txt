@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.Exceptions\bin\Debug\LibraryManagementSystem.Exceptions.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.Exceptions\bin\Debug\LibraryManagementSystem.Exceptions.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.Exceptions\obj\Debug\LibraryManagementSystem.Exceptions.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.Exceptions\obj\Debug\LibraryManagementSystem.Exceptions.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.Exceptions\obj\Debug\LibraryManagementSystem.Exceptions.pdb

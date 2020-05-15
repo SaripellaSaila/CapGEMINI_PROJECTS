@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Release\LibraryManagementSystem.DAL.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Release\LibraryManagementSystem.DAL.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Release\LibraryManagementSystem.Entities.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Release\LibraryManagementSystem.Exceptions.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Release\LibraryManagementSystem.Entities.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Release\LibraryManagementSystem.Exceptions.pdb
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Release\LibraryManagementSystem.DAL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Release\LibraryManagementSystem.DAL.csproj.CopyComplete
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Release\LibraryManagementSystem.DAL.dll
+C:\Users\user\source\repos\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Release\LibraryManagementSystem.DAL.pdb

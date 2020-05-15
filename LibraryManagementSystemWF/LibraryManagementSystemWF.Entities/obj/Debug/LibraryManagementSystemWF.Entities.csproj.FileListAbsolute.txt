@@ -1,0 +1,17 @@
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\bin\Debug\LibraryManagementSystemWF.Entities.dll
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\bin\Debug\LibraryManagementSystemWF.Entities.pdb
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.csprojAssemblyReference.cache
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.dll
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.pdb
+C:\Users\user\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\bin\Debug\LibraryManagementSystemWF.Entities.dll
+C:\Users\user\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\bin\Debug\LibraryManagementSystemWF.Entities.pdb
+C:\Users\user\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.dll
+C:\Users\user\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.pdb
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\bin\Debug\LibraryManagementSystemWF.Entities.dll
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\bin\Debug\LibraryManagementSystemWF.Entities.pdb
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.csprojAssemblyReference.cache
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.dll
+C:\Users\rajes\source\repos\LibraryManagementSystemWF\LibraryManagementSystemWF\LibraryManagementSystemWF.Entities\obj\Debug\LibraryManagementSystemWF.Entities.pdb
